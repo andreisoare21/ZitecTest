@@ -1,0 +1,6 @@
+Pages\MainPage.class
+Pages\ProductPage.class
+Pages\CheckoutPage.class
+Tests\AddToCart.class
+Misc\BrowserFactory.class
+Pages\WomenPage.class

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-16T23:58:24 EEST" name="All Test Suite" finished-at="2021-05-16T23:58:52 EEST" duration-ms="27175">
+    <groups>
+    </groups>
+    <test started-at="2021-05-16T23:58:24 EEST" name="F:/Git/Zitec_Test" finished-at="2021-05-16T23:58:52 EEST" duration-ms="27175">
+      <class name="Tests.BuySomething">
+        <test-method signature="buy()[pri:0, instance:Tests.BuySomething@679b62af]" started-at="2021-05-16T23:58:24 EEST" name="buy" finished-at="2021-05-16T23:58:52 EEST" duration-ms="27154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buy -->
+      </class> <!-- Tests.BuySomething -->
+    </test> <!-- F:/Git/Zitec_Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
